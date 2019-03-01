@@ -7,4 +7,4 @@ https://cloud.google.com/vision/
 
 2. Set up a Service account and download the authentication .json
 
-3. Predict the category of a folder of images using the jupyter notebook here, after you change the filenames/directory names aoppropriately.
+3. Predict the category of each image in a folder of images using the jupyter notebook here, after you change the filenames/directory names appropriately. The categorised images will be copied into a new folder structure reflecting their category.
